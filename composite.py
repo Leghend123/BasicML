@@ -15,7 +15,6 @@ def composite_func(f, g ,x):
 
 if __name__ == "__main__":
     
-
     result = composite_func(f,g,x)
     print("equation of h(x)-----------------------")
     print('h(x) = ' + str(result))
